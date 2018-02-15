@@ -6,6 +6,7 @@
 	 *
 	 *		https://gist.github.com/1809044
 	 */
+	//test
 	// The commands
 	$commands = array(
 		'echo $PWD',
