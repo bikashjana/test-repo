@@ -2,3 +2,4 @@ test repo
 chenkk
 hello world
 test
+lattice
